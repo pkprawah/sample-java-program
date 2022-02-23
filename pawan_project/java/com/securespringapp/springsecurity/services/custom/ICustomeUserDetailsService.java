@@ -1,6 +1,6 @@
 package com.securespringapp.springsecurity.services.custom;
 
-import com.happiestminds.springsecurity.model.User;
+import com.securespringapp.springsecurity.model.User;
 
 public interface ICustomeUserDetailsService {
 

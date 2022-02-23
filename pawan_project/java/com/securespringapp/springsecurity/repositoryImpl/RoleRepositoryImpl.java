@@ -9,9 +9,9 @@ import javax.persistence.Query;
 
 import org.springframework.stereotype.Repository;
 
-import com.happiestminds.springsecurity.model.Privilege;
-import com.happiestminds.springsecurity.model.Role;
-import com.happiestminds.springsecurity.repository.custom.IRoleRepositoryCustom;
+import com.securespringapp.springsecurity.model.Privilege;
+import com.securespringapp.springsecurity.model.Role;
+import com.securespringapp.springsecurity.repository.custom.IRoleRepositoryCustom;
 
 @Repository
 public class RoleRepositoryImpl implements IRoleRepositoryCustom {

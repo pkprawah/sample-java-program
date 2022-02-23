@@ -1,4 +1,4 @@
-package com.happiestminds.springsecurity.controller;
+package com.securespringapp.springsecurity.controller;
 
 import javax.validation.Valid;
 
@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.happiestminds.springsecurity.model.User;
+import com.securespringapp.springsecurity.model.User;
 
 public class DemoController {
 

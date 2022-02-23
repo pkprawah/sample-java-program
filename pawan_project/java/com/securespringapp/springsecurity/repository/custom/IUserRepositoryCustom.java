@@ -1,7 +1,7 @@
 package com.securespringapp.springsecurity.repository.custom;
 
 import org.springframework.stereotype.Repository;
-import com.happiestminds.springsecurity.model.User;
+import com.securespringapp.springsecurity.model.User;
 
 @Repository
 public interface IUserRepositoryCustom {

@@ -1,4 +1,4 @@
-package com.happiestminds.springsecurity.model;
+package com.securespringapp.springsecurity.model;
 
 import java.io.Serializable;
 import java.util.ArrayList;

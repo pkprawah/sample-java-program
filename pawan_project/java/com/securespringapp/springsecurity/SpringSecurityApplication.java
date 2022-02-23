@@ -7,7 +7,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 import org.springframework.context.annotation.ComponentScan;
 
 
-//@ComponentScan(basePackages = "com.happiestminds.springsecurity")
+//@ComponentScan(basePackages = "com.securespringapp.springsecurity")
 //@SpringBootApplication
 @SpringBootApplication
 @ComponentScan

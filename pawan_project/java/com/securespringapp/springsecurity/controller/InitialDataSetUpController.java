@@ -1,4 +1,4 @@
-package com.happiestminds.springsecurity.controller;
+package com.securespringapp.springsecurity.controller;
 
 import java.util.Arrays;
 import java.util.Date;
@@ -12,12 +12,12 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
-import com.happiestminds.springsecurity.model.Privilege;
-import com.happiestminds.springsecurity.model.Role;
-import com.happiestminds.springsecurity.model.User;
-import com.happiestminds.springsecurity.repository.IPrivilegeRepository;
-import com.happiestminds.springsecurity.repository.IRoleRepository;
-import com.happiestminds.springsecurity.repository.IUserRepository;
+import com.securespringapp.springsecurity.model.Privilege;
+import com.securespringapp.springsecurity.model.Role;
+import com.securespringapp.springsecurity.model.User;
+import com.securespringapp.springsecurity.repository.IPrivilegeRepository;
+import com.securespringapp.springsecurity.repository.IRoleRepository;
+import com.securespringapp.springsecurity.repository.IUserRepository;
 
 
 

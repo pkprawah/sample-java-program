@@ -1,7 +1,7 @@
 package com.securespringapp.springsecurity.repository.custom;
 
 import org.springframework.stereotype.Repository;
-import com.happiestminds.springsecurity.model.Role;
+import com.securespringapp.springsecurity.model.Role;
 
 @Repository
 public interface IRoleRepositoryCustom {

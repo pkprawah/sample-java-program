@@ -1,8 +1,8 @@
-package com.happiestminds.springsecurity.repository.custom;
+package com.securespringapp.springsecurity.repository.custom;
 
 import org.springframework.stereotype.Repository;
 
-import com.happiestminds.springsecurity.model.Privilege;
+import com.securespringapp.springsecurity.model.Privilege;
 
 
 

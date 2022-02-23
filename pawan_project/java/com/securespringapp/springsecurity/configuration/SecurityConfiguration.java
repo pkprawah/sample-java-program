@@ -11,12 +11,12 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
-import com.happiestminds.springsecurity.services.CustomeUserDetailsService;
+import com.securespringapp.springsecurity.services.CustomeUserDetailsService;
 
 @EnableGlobalMethodSecurity(prePostEnabled=true)
 @Configuration
 @EnableWebSecurity
-@EnableJpaRepositories(basePackages="com.happiestminds.springsecurity")
+@EnableJpaRepositories(basePackages="com.securespringapp.springsecurity")
 public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
 	@Autowired

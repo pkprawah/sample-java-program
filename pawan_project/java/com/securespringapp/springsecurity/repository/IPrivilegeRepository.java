@@ -2,8 +2,8 @@ package com.securespringapp.springsecurity.repository;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.happiestminds.springsecurity.model.Privilege;
-import com.happiestminds.springsecurity.repository.custom.IPrivilegeRepositoryCustom;
+import com.securespringapp.springsecurity.model.Privilege;
+import com.securespringapp.springsecurity.repository.custom.IPrivilegeRepositoryCustom;
 
 
 @Repository

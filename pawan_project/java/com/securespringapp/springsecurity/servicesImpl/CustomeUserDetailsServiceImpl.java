@@ -9,10 +9,10 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import com.happiestminds.springsecurity.model.CustomUserDetails;
-import com.happiestminds.springsecurity.model.User;
-import com.happiestminds.springsecurity.repository.IUserRepository;
-import com.happiestminds.springsecurity.services.CustomeUserDetailsService;
+import com.securespringapp.springsecurity.model.CustomUserDetails;
+import com.securespringapp.springsecurity.model.User;
+import com.securespringapp.springsecurity.repository.IUserRepository;
+import com.securespringapp.springsecurity.services.CustomeUserDetailsService;
 
 import ch.qos.logback.core.net.SyslogOutputStream;
 

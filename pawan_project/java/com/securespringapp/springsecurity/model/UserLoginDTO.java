@@ -1,4 +1,4 @@
-package com.happiestminds.springsecurity.model;
+package com.securespringapp.springsecurity.model;
 
 public class UserLoginDTO {
     private String userName ;
